@@ -1,2 +1,2 @@
 # Fcc-projects
-Tribute page for FCC project
+Page for FCC tribute project
