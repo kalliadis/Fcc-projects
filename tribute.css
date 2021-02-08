@@ -1,0 +1,53 @@
+html {
+  font-size: 10px;
+}
+body {
+  font-family: helvetica;
+  font-size: 1.7rem;
+  text-align:center;
+  background: #aac6b3;
+  margin:auto;
+}
+h1 {
+  font-size: 4rem;
+}
+main {
+  margin: 10px;
+  padding: 25px;
+  background: #f3f9ec;
+  border-radius: 5px;
+}
+img {
+  max-width: 100%;
+  border-radius: 2px;
+  display: block;
+  margin: auto;
+  height: auto;
+}
+#img-div {
+  background: #f3f9ec;
+  padding: 10px;
+  border-radius: 3px;
+}
+ul {
+  max-width: 400px;
+  text-align: left;
+  margin: auto;
+}
+ol {
+  max-width: 600px;
+  margin: 0 auto 50px auto;
+  text-align: left;
+}
+ol li {
+  margin: 15px 0;
+}
+a {
+  color: #066;
+}
+a:hover {
+  color: #008080;
+}
+a:visited {
+  color: #00b3b3;
+}
